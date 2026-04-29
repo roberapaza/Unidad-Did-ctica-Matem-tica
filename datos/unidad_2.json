@@ -1,0 +1,190 @@
+{
+  "numero_unidad": 2,
+  "titulo_unidad": "Celebramos con entusiasmo nuestro 42.° aniversario en familia promoviendo la identidad institucional y una cultura de paz dentro y fuera de la I.E.",
+  "datos_informativos": {
+    "Institución Educativa": "MVRHT N.° 0148",
+    "Directora": "MARY CRUZ GÓMEZ SIPIÓN",
+    "Coordinador / Área": "ENRIQUE PADILLA",
+    "Subdirectora": "YONI COMPI BLAS",
+    "Docente de área": "ROBERTO APAZA ROBLES",
+    "Área": "MATEMÁTICA",
+    "Periodo de ejecución": "I BIMESTRE",
+    "Ciclo": "VI",
+    "N.° de semanas": "3 semanas: 27/04/2026 al 15/05/2026",
+    "Año y sección": "2.° de secundaria"
+  },
+  "situacion_significativa": "En la comunidad educativa \"MVRHT\" N.° 0148, los estudiantes del VI ciclo celebrarán con entusiasmo el 42.° aniversario institucional, fortaleciendo la identidad institucional y una cultura de paz dentro y fuera de la I.E. Sin embargo, se ha identificado como problemática priorizada la falta de identidad institucional, asociada a conflictos de convivencia que debilitan el trabajo en familia, la participación activa y el respeto entre los miembros de la comunidad educativa. Frente a esta situación, desde el área de Matemática, los estudiantes recogerán datos relacionados con la participación en actividades del aniversario, la puntualidad, la percepción de convivencia y el compromiso con la identidad institucional. Luego, organizarán la información en tablas y gráficos, calcularán medidas de tendencia central como la media, mediana y moda, e interpretarán los resultados para sustentar conclusiones orientadas a mejorar la convivencia. Asimismo, modelarán situaciones propias de la organización del aniversario, como presupuestos, metas de participación, distribución de responsabilidades y planificación de actividades, mediante ecuaciones lineales de primer grado. Como producto final, construirán un boletín informativo por el 42.° aniversario institucional, en el que presentarán situaciones matemáticas basadas en ecuaciones, tablas, gráficos estadísticos, medidas de tendencia central y propuestas de mejora fundamentadas en evidencias.",
+  "preguntas_retadoras": [
+    "¿Qué situación del aniversario puede modelarse con una ecuación lineal y qué representa cada término?",
+    "¿Qué meta de participación es viable según nuestros datos y cómo la expresamos algebraicamente?",
+    "¿Cómo verificamos si una solución es coherente con el contexto?",
+    "¿Qué indican la media, mediana y moda sobre nuestra convivencia y participación?",
+    "¿Qué decisiones tomaríamos si los promedios difieren entre secciones?",
+    "¿Cómo comunicamos los resultados para promover una cultura de paz dentro y fuera de la I.E.?"
+  ],
+  "contexto": {
+    "Problemática de contexto": "Falta de identidad institucional",
+    "Necesidades e intereses de los estudiantes": "Resolución de conflictos",
+    "Competencias seleccionadas": "Resuelve problemas de regularidad, equivalencia y cambio.\nResuelve problemas de gestión de datos e incertidumbre.",
+    "Producto de la unidad": "Construimos un boletín informativo por nuestro 42.° aniversario considerando situaciones matemáticas basadas en ecuaciones y gestión de datos."
+  },
+  "enfoques_transversales": [
+    {
+      "enfoque": "Enfoque de igualdad de género",
+      "acciones": "Los docentes promueven la participación equitativa de mujeres y varones en la organización de actividades por el aniversario institucional, distribuyendo responsabilidades sin estereotipos y valorando por igual los aportes de todos los estudiantes."
+    },
+    {
+      "enfoque": "Enfoque de orientación al bien común",
+      "acciones": "Los estudiantes asumen responsabilidades compartidas para fortalecer la identidad institucional, el respeto y la convivencia pacífica, participando en la elaboración de propuestas que beneficien a toda la comunidad educativa."
+    }
+  ],
+  "competencias_transversales": [
+    {
+      "competencia": "Se desenvuelve en los entornos virtuales generados por las TIC",
+      "capacidad": "Gestiona información del entorno virtual",
+      "criterio": "Accede a entornos virtuales para revisar información relacionada con participación, convivencia e identidad institucional, así como reforzar sus aprendizajes en la plataforma Khan Academy."
+    },
+    {
+      "competencia": "Se desenvuelve en los entornos virtuales generados por las TIC",
+      "capacidad": "Interactúa en entornos virtuales",
+      "criterio": "Utiliza herramientas digitales para organizar datos, elaborar gráficos y presentar información en el boletín informativo, así como reforzar sus aprendizajes en la plataforma Khan Academy."
+    },
+    {
+      "competencia": "Gestiona su aprendizaje de manera autónoma",
+      "capacidad": "Define metas de aprendizaje",
+      "criterio": "Determina metas de aprendizaje vinculadas con la resolución de ecuaciones lineales, la organización de datos y la elaboración del boletín informativo."
+    },
+    {
+      "competencia": "Gestiona su aprendizaje de manera autónoma",
+      "capacidad": "Organiza acciones estratégicas para alcanzar sus metas de aprendizaje",
+      "criterio": "Organiza su tiempo y responsabilidades para recoger datos, resolver situaciones matemáticas y presentar evidencias durante el desarrollo de la unidad."
+    },
+    {
+      "competencia": "Gestiona su aprendizaje de manera autónoma",
+      "capacidad": "Monitorea y ajusta su desempeño durante el proceso de aprendizaje",
+      "criterio": "Reflexiona sobre sus avances y dificultades al resolver ecuaciones, procesar datos y comunicar conclusiones basadas en información estadística."
+    }
+  ],
+  "competencias_area": [
+    {
+      "area": "MATEMÁTICA",
+      "competencia": "RESUELVE PROBLEMAS DE REGULARIDAD, EQUIVALENCIA Y CAMBIO",
+      "estandar": "Resuelve problemas referidos a interpretar cambios constantes o regularidades entre magnitudes, valores o expresiones, traduciéndolas a patrones numéricos y gráficos, progresiones aritméticas, ecuaciones e inecuaciones con una incógnita, funciones lineales y afines, y relaciones de proporcionalidad directa e inversa. Comprueba si la expresión algebraica usada reproduce las condiciones del problema. Expresa su comprensión de la variable, las ecuaciones e inecuaciones lineales, las funciones lineales y las relaciones de cambio; selecciona y combina estrategias, métodos gráficos y procedimientos matemáticos para determinar términos desconocidos, simplificar expresiones algebraicas y resolver ecuaciones e inecuaciones lineales. Además, plantea afirmaciones sobre relaciones de cambio y equivalencia, justificándolas con ejemplos y propiedades matemáticas.",
+      "filas": [
+        {
+          "capacidad": "Traduce datos y condiciones a expresiones algebraicas y gráficas.",
+          "criterio": "Identifica datos, valores desconocidos y relaciones de equivalencia en situaciones del aniversario institucional.",
+          "evidencia": "Plantea ecuaciones lineales de primer grado a partir de situaciones de presupuesto, metas de participación y organización del aniversario.",
+          "instrumento": "Lista de cotejo"
+        },
+        {
+          "capacidad": "Comunica su comprensión sobre las relaciones algebraicas.",
+          "criterio": "Explica qué representa la incógnita, los términos y la igualdad en una ecuación contextualizada.",
+          "evidencia": "Describe oralmente y por escrito el significado de cada término de una ecuación vinculada con actividades del aniversario.",
+          "instrumento": "Guía de observación"
+        },
+        {
+          "capacidad": "Usa estrategias y procedimientos para encontrar equivalencias y reglas generales.",
+          "criterio": "Aplica procedimientos adecuados para resolver ecuaciones lineales y verifica si la solución cumple las condiciones del problema.",
+          "evidencia": "Resuelve situaciones matemáticas sobre gastos, metas de participación, distribución de materiales y organización de actividades.",
+          "instrumento": "Ficha de trabajo"
+        },
+        {
+          "capacidad": "Argumenta afirmaciones sobre relaciones de cambio y equivalencia.",
+          "criterio": "Sustenta la validez de sus resultados y corrige errores en procedimientos propios o de sus compañeros.",
+          "evidencia": "Justifica si una solución algebraica es coherente con el contexto del aniversario institucional.",
+          "instrumento": "Rúbrica analítica"
+        }
+      ]
+    },
+    {
+      "area": "MATEMÁTICA",
+      "competencia": "RESUELVE PROBLEMAS DE GESTIÓN DE DATOS E INCERTIDUMBRE",
+      "estandar": "Resuelve problemas en los que plantea temas de estudio, identifica la población pertinente y las variables cuantitativas continuas, cualitativas nominales y ordinales. Recolecta datos mediante encuestas y los registra en tablas de datos agrupados; determina medidas de tendencia central como la media aritmética y la mediana de datos discretos; representa el comportamiento de los datos en histogramas, polígonos de frecuencia, gráficos circulares, tablas de frecuencia y medidas estadísticas. Usa el significado de las medidas de tendencia central para interpretar y comparar información; con base en ello, plantea y contrasta conclusiones sobre las características de una población.",
+      "filas": [
+        {
+          "capacidad": "Representa datos con gráficos y medidas estadísticas o probabilísticas.",
+          "criterio": "Organiza datos sobre participación, puntualidad y convivencia en tablas y gráficos adecuados.",
+          "evidencia": "Elabora tablas de frecuencia y gráficos estadísticos sobre la participación en actividades del aniversario.",
+          "instrumento": "Lista de cotejo"
+        },
+        {
+          "capacidad": "Comunica su comprensión de los conceptos estadísticos y probabilísticos.",
+          "criterio": "Interpreta la media, mediana y moda para explicar tendencias en los datos recogidos.",
+          "evidencia": "Explica qué indican las medidas de tendencia central sobre la convivencia, participación e identidad institucional.",
+          "instrumento": "Guía de observación"
+        },
+        {
+          "capacidad": "Usa estrategias y procedimientos para recopilar y procesar datos.",
+          "criterio": "Diseña encuestas sencillas, recoge información y calcula medidas de tendencia central con precisión.",
+          "evidencia": "Aplica una encuesta a sus compañeros y procesa los datos obtenidos en tablas, gráficos y cálculos estadísticos.",
+          "instrumento": "Ficha de trabajo"
+        },
+        {
+          "capacidad": "Sustenta conclusiones o decisiones con base en la información obtenida.",
+          "criterio": "Formula conclusiones y propuestas de mejora basadas en los datos analizados.",
+          "evidencia": "Redacta conclusiones para el boletín informativo y propone acciones para fortalecer la cultura de paz.",
+          "instrumento": "Rúbrica analítica"
+        }
+      ]
+    }
+  ],
+  "sesiones": [
+    {
+      "numero": 1,
+      "titulo": "Preguntamos para convivir mejor: recogemos datos por nuestro aniversario",
+      "proposito": "Que los estudiantes identifiquen una población de estudio, formulen preguntas de encuesta y recojan datos sobre participación, puntualidad, convivencia e identidad institucional durante las actividades del 42.° aniversario."
+    },
+    {
+      "numero": 2,
+      "titulo": "Organizamos nuestras voces: tablas y gráficos para comprender la convivencia",
+      "proposito": "Que los estudiantes organicen los datos recogidos en tablas de frecuencia y gráficos estadísticos, interpretando la información para reconocer tendencias relacionadas con la participación y la convivencia escolar."
+    },
+    {
+      "numero": 3,
+      "titulo": "Descubrimos el centro de nuestros datos: media, mediana y moda para tomar decisiones",
+      "proposito": "Que los estudiantes calculen e interpreten medidas de tendencia central a partir de datos sobre el aniversario institucional, sustentando conclusiones orientadas a fortalecer la identidad y la cultura de paz."
+    },
+    {
+      "numero": 4,
+      "titulo": "Traducimos el aniversario al lenguaje algebraico: planteamos ecuaciones lineales",
+      "proposito": "Que los estudiantes modelen situaciones del aniversario institucional mediante ecuaciones lineales de primer grado, identificando datos, incógnitas y relaciones de equivalencia en contextos de presupuesto, metas y organización."
+    },
+    {
+      "numero": 5,
+      "titulo": "Resolvemos retos del aniversario: ecuaciones para organizar mejor",
+      "proposito": "Que los estudiantes resuelvan ecuaciones lineales de primer grado en situaciones contextualizadas sobre distribución de recursos, participación estudiantil y organización de actividades, verificando la coherencia de sus soluciones."
+    },
+    {
+      "numero": 6,
+      "titulo": "Comunicamos con evidencia: elaboramos nuestro boletín matemático por la paz institucional",
+      "proposito": "Que los estudiantes integren ecuaciones, tablas, gráficos, medidas de tendencia central y conclusiones en un boletín informativo que promueva la identidad institucional y una cultura de paz dentro y fuera de la I.E."
+    }
+  ],
+  "producto_integrado": "Construimos un boletín informativo por nuestro 42.° aniversario considerando situaciones matemáticas basadas en ecuaciones y gestión de datos.",
+  "instrumentos": ["Lista de cotejo", "Rúbrica analítica", "Ficha de trabajo", "Guía de observación"],
+  "materiales": {
+    "Para el docente": [
+      "Currículo Nacional de la Educación Básica.",
+      "Programa Curricular de Educación Secundaria.",
+      "Planificación Anual 2026 – Segundo grado.",
+      "Fichas complementarias de ecuaciones y estadística.",
+      "Rúbricas y listas de cotejo.",
+      "Plataforma Khan Academy."
+    ],
+    "Para el estudiante": [
+      "Cuaderno de trabajo de Matemática.",
+      "Fichas de trabajo sobre ecuaciones lineales.",
+      "Encuestas impresas o digitales.",
+      "Regla, lápiz, colores, papelotes o cartulinas.",
+      "Calculadora básica, cuaderno y material de escritorio.",
+      "Plataforma Khan Academy para reforzamiento."
+    ]
+  },
+  "firmas": [
+    {"nombre": "ROBERTO APAZA ROBLES", "cargo": "Docente", "firma": "recursos/firma_roberto.png"},
+    {"nombre": "YONI COMPI BLAS", "cargo": "SUBDIRECTORA"},
+    {"nombre": "MARYCRUZ GÓMEZ SIPIÓN", "cargo": "DIRECTORA"}
+  ],
+  "salida": "salida/UNIDAD_DE_APRENDIZAJE_N2_SEGUNDO_2026.docx"
+}
